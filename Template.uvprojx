@@ -7,7 +7,7 @@
 
   <Targets>
     <Target>
-      <TargetName>Target 1</TargetName>
+      <TargetName>Template_STM32F0</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
       <pCCUsed>5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7</pCCUsed>
@@ -665,14 +665,14 @@
           <GroupName>System</GroupName>
           <Files>
             <File>
-              <FileName>SysDelay.c</FileName>
+              <FileName>template_delay.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\System\SysDelay.c</FilePath>
+              <FilePath>.\System\template_delay.c</FilePath>
             </File>
             <File>
-              <FileName>SysDelay.h</FileName>
+              <FileName>template_delay.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\System\SysDelay.h</FilePath>
+              <FilePath>.\System\template_delay.h</FilePath>
             </File>
           </Files>
         </Group>
