@@ -17,4 +17,5 @@ or under the [link](https://developer.arm.com/documentation/ka005198/latest).
 
 ## Usage
 
+### Basic
 Clone or download this template and be ready to launch.
